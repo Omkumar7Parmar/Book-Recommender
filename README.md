@@ -1,7 +1,3 @@
-Here’s a clean, beginner-friendly, and **attractive** `README.md` for your **Semantic Book Recommender** project on GitHub:
-
----
-
 # 📚 Semantic Book Recommender
 
 Welcome to **Semantic Book Recommender** — an intelligent, emotion-aware book recommendation app powered by AI, natural language understanding, and emotion detection! 💡✨ Type a short description of a book you like (or your mood), and we’ll recommend books that match your *meaning* and *emotional tone* 🎯.
