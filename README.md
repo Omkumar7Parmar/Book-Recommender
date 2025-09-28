@@ -2,9 +2,7 @@
 
 Welcome to **Semantic Book Recommender** — an intelligent, emotion-aware book recommendation app powered by AI, natural language understanding, and emotion detection! 💡✨ Type a short description of a book you like (or your mood), and we’ll recommend books that match your *meaning* and *emotional tone* 🎯.
 
-![screenshot](path/to/demo-image-or-gif.png) <!-- Optional: add UI gif/screenshot later -->
 
----
 
 ## 🚀 Features
 
